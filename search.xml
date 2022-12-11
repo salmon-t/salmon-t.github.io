@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2022/12/a95af75a071d.html"/>
-      <url>/2022/12/a95af75a071d.html</url>
-      
-        <content type="html"><![CDATA[<p>test</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java技术 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>test</title>
       <link href="/2022/12/a99fc1521aac.html"/>
       <url>/2022/12/a99fc1521aac.html</url>
@@ -30,6 +11,60 @@
         <content type="html"><![CDATA[<pre class="line-numbers language-java" data-language="java"><code class="language-java"><span class="token keyword">public</span> <span class="token keyword">static</span> <span class="token keyword">void</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span><span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"Hello BLog"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>未命名</title>
+      <link href="/2022/12/1904bd8444e5.html"/>
+      <url>/2022/12/1904bd8444e5.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 后端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试模版</title>
+      <link href="/2022/12/40b22bad763e.html"/>
+      <url>/2022/12/40b22bad763e.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 后端技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 后端开发 </tag>
+            
+            <tag> SpringBoot </tag>
+            
+        </tags>
       
     </entry>
     
